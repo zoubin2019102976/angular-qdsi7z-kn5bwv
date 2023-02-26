@@ -4,7 +4,7 @@
    * For example, in JavaScript, the semi-colon (;) can be a commit character that accepts a suggestion and types that character.
    * Defaults to true.
    */
-  "editor.acceptSuggestionOnCommitCharacter": true,
+  "editor.acceptSuggestionOnCommitCharacter": true
   /**
    * Controls whether suggestions should be accepted on Enter, in addition to Tab. Helps to avoid ambiguity between inserting new lines or accepting suggestions.
    * Can be: 'on', 'off', or 'smart'.
